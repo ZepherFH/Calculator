@@ -1,16 +1,19 @@
-.app {
-  text-align: center;
-  }
-  table{
-  width: 400 px;
-  margin: auto;
-  }
-  td{
-      /*border: 1px solid black;(the border it´s gone)*/
-           text-align: center;
-              width: 100px;
-  }
-  button {
-      margin-top: 5px;
-      box-shadow: 2px 3px #888888;
-  }
+.app{
+    text-align: center;
+    }
+    
+    table {
+     width: 400px ;
+     margin: auto;
+    
+    }
+    
+    td {
+    text-align: center;
+    width: 100px;
+    }
+    
+    button {
+        margin-top: 5px;
+        box-shadow: 2px 3px #888888 ;
+    }
